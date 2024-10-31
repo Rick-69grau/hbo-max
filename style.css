@@ -1,6 +1,15 @@
 header{
-    background-color: blue;
+    background-color: darkblue;
 }
 h1{
+    color: aliceblue;
+}
+body{
+    background-color: darkblue;
+}
+h2{
+    color: aliceblue;
+}
+p{
     color: aliceblue;
 }
